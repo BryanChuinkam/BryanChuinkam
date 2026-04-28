@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Bryan 👋
 
-<!--
-**BryanChuinkam/BryanChuinkam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer | Transitioning from Data Engineering | Building products users love
 
-Here are some ideas to get you started:
+## Currently Learning
+- **AI & LLM Applications:** RAG pipelines, semantic search, Claude API, prompt engineering
+- **Modern AI-Assisted Development:** Exploring Claude Code and modern AI tools for productivity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- **Languages:** Python, JavaScript, SQL, HTML/CSS
+- **Frontend:** React, responsive design, accessibility (AODA/WCAG)
+- **Backend:** REST APIs, databases, cloud infrastructure, Django, FastAPI
+- **Data & AI:** PostgreSQL, RAG systems, semantic search
+- **Tools:** Git, GitHub Actions, Docker, VS Code, cloud platforms (AWS, Azure)
+
+## Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/bryan-chuinkam-3888602)
+- 📝 [Medium](https://medium.com/@bryan.chuinkam)
+
+## Fun Fact
+I've built data pipelines that solved million-dollar problems, but what really energizes me is shipping features that users interact with directly. 🚀
